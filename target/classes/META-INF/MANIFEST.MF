@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: WitamSwiat
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Rafaￅﾂ
+Implementation-Vendor-Id: net.elenx.egzamin
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/WitamSwiat/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

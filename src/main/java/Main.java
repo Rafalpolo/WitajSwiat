@@ -1,0 +1,9 @@
+
+
+@SpringBootApplication
+public class Main {
+	
+	
+	
+
+}
