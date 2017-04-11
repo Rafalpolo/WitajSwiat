@@ -1,4 +1,4 @@
-package com.test.takitest;
+package com.test;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Kontroler {
 	
 	
-	// na stronie http://localhost:8080/hello wyœwietli siê nam napis Hello World
+	// na stronie http://localhost:8080/hello wyswietli sie nam napis Hello World
 	@RequestMapping("/hello")
 	public String przywitanie(){
 		return "Hello World";
